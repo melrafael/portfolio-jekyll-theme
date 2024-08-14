@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Using github pages"
+
+---
 ```python
 # This is just for testing purposes to showcase the 'nbconvert' function in jupyter
 
